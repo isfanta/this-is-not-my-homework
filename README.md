@@ -1,2 +1,1 @@
-# this-is-not-my-homework
-this is not what i make for homework but fun
+don't read me ,read the code.
